@@ -1,1 +1,1 @@
-# php-testshorten
+# php-textshorten
